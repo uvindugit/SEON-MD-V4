@@ -1,0 +1,36 @@
+{
+  "name": "SEON-MD",
+  "description": "Javascript WhatsApp bot made by Sadiya",
+  "logo": "https://i.ibb.co/LzWFGR6/20241228-175350.png",
+  "keywords": ["bot"],
+  "success_url": "/",
+
+  "env": {
+    "SESSION_ID": {
+      "description": "Put the session-id here.",
+      "required": true
+    },  
+
+    "GITHUB_USERNAME": {
+      "description": "Put your github username",
+      "required": true
+    },
+
+    "REPO_NAME": {
+      "description": "Put your like name",
+      "required": true
+    },
+    
+    "GITHUB_AUTH_TOKEN": {
+      "description": "Put your github auth token",
+      "required": true
+    }   
+},
+
+     "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+     ],
+  "stack": "heroku-24"
+}
