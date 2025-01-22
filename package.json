@@ -29,6 +29,7 @@
     "vm": "^0.1.0",
     "qrcode-terminal": "^0.12.0",
     "api-dylux": "latest",
-    "wa-sticker-formatter": "latest"
+    "wa-sticker-formatter": "latest",
+    "api-dylux": "latest"
   }
 }
