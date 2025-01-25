@@ -1,5 +1,4 @@
-<div align="center">
-<h3>SEON MD V3 USER BOT</h3>
+<h3 align="center" >SEON MD V4 USER BOT</h3>
 
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
@@ -62,48 +61,11 @@
 <div align="center">
 
 ### Visit Website
-<a href="https://SEON-MD-BOT-official.netlify.app/"><img src="https://img.shields.io/badge/SEON-MD-BOT%20Website-blue" alt="" width="350" target="_blank"></a>
+<a href="https://seon-md-official.vercel.app/"><img src="https://img.shields.io/badge/DEPLOY-blue" width="125vm" target="_blank"></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### Fork repo
-<a href="https://github.com/Sadiya-Tech22/SEON-MD-BOT/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="100" width="310" /></a>
-  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### Github Auth Token
-<a href="https://github.com/settings/tokens" target="blank"><img align="center" src="https://i.ibb.co/LQ4LPBF/20241227-151500.png" alt="Github Auth Token" height="100" width="100%" /></a>
-  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### LOGIN WHATSAPP
-<a href="https://SEON-MD-BOT-pair.netlify.app/"><img src="https://img.shields.io/badge/Deploy-black" alt="Deploy" width="125vm"></a>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-### DEPLOY
-
- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sadiya-Tech22/SEON-MD-BOT)
- 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.app/template/MTHtDw)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### Whatsapp
-<a aria-label="Owner WhatsApp" href="https://wa.me/+94742195461?text=Hey_Sadiya_Tech_🤍" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp Owner-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-
-<br>
-
-<a href="https://seon-md-official.vercel.app/"><img src="https://img.shields.io/badge/Deploy%20Bot-blue" alt="logo=whatsapp&WhatsApp Supported Channel" width="350" target="_blank"></a>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 ### Workflow Deploy Code 👇
-
 
 ```
 name: Node.js CI
