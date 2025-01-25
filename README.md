@@ -77,7 +77,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### LOGIN WHATSAPP
-<a href="https://SEON-MD-BOT-pair.netlify.app/"><img src="https://img.shields.io/badge/Deploy-black" alt="Deploy" width="50vm"></a>
+<a href="https://SEON-MD-BOT-pair.netlify.app/"><img src="https://img.shields.io/badge/Deploy-black" alt="Deploy" width="25vm"></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
