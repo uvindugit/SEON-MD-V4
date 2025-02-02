@@ -4,8 +4,8 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID === undefined ? 'Put the session-id here' : process.env.SESSION_ID,
-GITHUB_USERNAME: process.env.GITHUB_USERNAME === undefined ? 'Put your github username': process.env.GITHUB_USERNAME,
-GITHUB_AUTH_TOKEN: process.env.GITHUB_AUTH_TOKEN === undefined ? 'Put your github auth token': process.env.GITHUB_AUTH_TOKEN,
-REPO_NAME: process.env.REPO_NAME === undefined ? 'SEON-MD-DB': process.env.REPO_NAME
+SESSION_ID: process.env.SESSION_ID || '', //Put Session-id Here
+GITHUB_USERNAME: process.env.GITHUB_USERNAME || '', //Put Your Gitub Username
+GITHUB_AUTH_TOKEN: process.env.GITHUB_AUTH_TOKEN || '', //Put Your Github Auth Token
+REPO_NAME: process.env.REPO_NAME || 'SEON-MD-DATABASE' //Bot Database Repo Name
 };
