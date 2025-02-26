@@ -1,30 +1,28 @@
 {
   "name": "SEON-MD",
   "description": "Javascript WhatsApp bot made by Sadiya",
-  "logo": "https://i.ibb.co/LzWFGR6/20241228-175350.png",
+  "logo": "https://i.ibb.co/pr1BPMb7/Seon-Md.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
   "env": {
-    "SESSION_ID": {
-      "description": "Put the session-id here.",
-      "required": true
-    },  
-
-    "GITHUB_USERNAME": {
-      "description": "Put your github username",
+    "DATABASE_REPO_NAME": {
+      "description": "Put Your Database Repo Name Here.",
+      "value": "SEON-MD-DATABASE",
       "required": true
     },
-
-    "REPO_NAME": {
-      "description": "Put your like name",
-      "required": true
-    },
-    
     "GITHUB_AUTH_TOKEN": {
-      "description": "Put your github auth token",
+      "description": "Put Your Github Auth Token Here.",
       "required": true
-    }   
+    },
+    "GITHUB_USER_NAME": {
+      "description": "Put Your Github User Name Here.",
+      "required": true
+    },
+    "SESSION_ID": {
+      "description": "Put the Session-ID You Got From Pair Or Scan Qr.",
+      "required": true
+    }
 },
 
      "buildpacks": [
