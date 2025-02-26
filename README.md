@@ -9,56 +9,48 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
    <p align="center">
-<a href="https://github.com/Sadiya-Tech22/SEON-MD-BOT">
-    <img src="https://i.ibb.co/h2GC8Jn/20241228-171651.png" width="700px">
+<a href="https://github.com/Sadiya-Tech22/SEON-MD-V4">
+    <img src="https://i.ibb.co/RGkxbsc6/Seon-Md.jpg" width="700px">
   </a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <p align="center">
 
-  <a href="https://github.com/Sadiya-Tech22/SEON-MD-BOT">
+  <a href="https://github.com/Sadiya-Tech22/SEON-MD-V4">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSadiya-Tech22%2FSEON-MD-BOT&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
   
   </a>
 <di
-  <a href="https://github.com/Sadiya-Tech22/SEON-MD-BOT/fork">
-    <img src="https://img.shields.io/github/forks/Sadiya-Tech22/SEON-MD-BOT?label=Fork&style=social">
+  <a href="https://github.com/Sadiya-Tech22/SEON-MD-V4/fork">
+    <img src="https://img.shields.io/github/forks/Sadiya-Tech22/SEON-MD-V4?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/Sadiya-Tech22/SEON-MD-BOT/stargazers">
-    <img src="https://img.shields.io/github/stars/Sadiya-Tech22/SEON-MD-BOT?style=social">
+  <a href="https://github.com/Sadiya-Tech22/SEON-MD-V4/stargazers">
+    <img src="https://img.shields.io/github/stars/Sadiya-Tech22/SEON-MD-V4?style=social">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Sadiya-Tech22/SEON-MD-BOT">
-    <img src="https://img.shields.io/github/repo-size/Sadiya-Tech22/SEON-MD-BOT?color=purple&label=Repo%20Size&style=plastic">
+  <a href="https://github.com/Sadiya-Tech22/SEON-MD-V4">
+    <img src="https://img.shields.io/github/repo-size/Sadiya-Tech22/SEON-MD-V4?color=purple&label=Repo%20Size&style=plastic">
 
   </a>
-  <a href="https://github.com/Sadiya-Tech22/SEON-MD-BOT">
-    <img src="https://img.shields.io/github/license/Sadiya-Tech22/SEON-MD-BOT?color=purple&label=License&style=plastic">
+  <a href="https://github.com/Sadiya-Tech22/SEON-MD-V4">
+    <img src="https://img.shields.io/github/license/Sadiya-Tech22/SEON-MD-V4?color=purple&label=License&style=plastic">
 
   </a>
-  <a href="https://github.com/Sadiya-Tech22/SEON-MD-BOT">
-    <img src="https://img.shields.io/github/languages/top/Sadiya-Tech22/SEON-MD-BOT?color=purple&label=Javascript&style=plastic">
+  <a href="https://github.com/Sadiya-Tech22/SEON-MD-V4">
+    <img src="https://img.shields.io/github/languages/top/Sadiya-Tech22/SEON-MD-V4?color=purple&label=Javascript&style=plastic">
 
   </a>
-  <a href="https://github.com/Sadiya-Tech22/SEON-MD-BOT">
-    <img src="https://img.shields.io/static/v1?label=Author&message=Sadiya Tech&color=purple&style=plastic">
+  <a href="https://github.com/Sadiya-Tech22/SEON-MD-V4">
+    <img src="https://img.shields.io/static/v1?label=Creator&message=Sadiya Tech&color=purple&style=plastic">
 
   </a>
   </p>
- <p align="center">
-  <a href="https://github.com/Sadiya-Tech22/SEON-MD-BOT">
-    <img src="https://img.shields.io/badge/Dark%20Cyber%20Maker-purple&style=plastic">
-
-  </a>
-</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
 
 ### Visit Website
 <a href="https://seon-md-official.vercel.app/"><img src="https://img.shields.io/badge/DEPLOY-blue" width="125vm" target="_blank"></a>
@@ -103,7 +95,8 @@ jobs:
       run: npm start
 ```
 
-`Thanks To, Sanjuwa & Lithika 😅`
+`🧑‍💻 Seon Md 🧑‍💻 - By Sadiya Tech`
 
-SEON-MD-BOT WHATSAPP USER BOT CREATED BY Dark Cyber Maker
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+`Released date:- 2025.01.26`
