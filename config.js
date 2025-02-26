@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 SESSION_ID: process.env.SESSION_ID || '', //Put Session-id Here
-GITHUB_USERNAME: process.env.GITHUB_USERNAME || '', //Put Your Gitub Username
+GITHUB_USER_NAME: process.env.GITHUB_USER_NAME || '', //Put Your Gitub Username
 GITHUB_AUTH_TOKEN: process.env.GITHUB_AUTH_TOKEN || '', //Put Your Github Auth Token
-REPO_NAME: process.env.REPO_NAME || 'SEON-MD-DATABASE' //Bot Database Repo Name
+DATABASE_REPO_NAME: process.env.DATABASE_REPO_NAME || 'SEON-MD-DATABASE' //Bot Database Repo Name
 };
